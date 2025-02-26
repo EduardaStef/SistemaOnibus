@@ -1,13 +1,13 @@
+/*
+NOME: EDUARDA STEFFEN
+DATA: 25/02/2025
+ */
 package com.furb;
 
 import com.furb.model.*;
-import com.furb.view.Tela;
-import com.furb.view.TelaCadastroViagem;
 import com.furb.view.TelaPrincipal;
 
 import java.time.LocalDate;
-import java.util.ArrayList;
-import java.util.List;
 
 public class Main {
 
